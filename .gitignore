@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables / secrets
+.env
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log
+
+seen_alerts.json
